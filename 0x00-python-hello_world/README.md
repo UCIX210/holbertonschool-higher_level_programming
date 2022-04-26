@@ -59,7 +59,7 @@ Release date April 15, 2022
 
 
  ## Tasks
-### [0. Run Python File](https://github.com/UCIX210/holbertonschool-low_level_programming/blob/main/0x00-hello_world/0-preprocessor)
+### [0. Run Python File](https://github.com/UCIX210/holbertonschool-higher_level_programming/blob/main/0x00-python-hello_world/0-run)
  * Write a Shell script that runs a Python script.
  * The Python file name will be saved in the environment variable `$PYFILE`
 
@@ -78,7 +78,7 @@ guillaume@ubuntu:~/py/0x00$
 
 
 
-### [1. Run inline](https://github.com/UCIX210/holbertonschool-low_level_programming/blob/main/0x00-hello_world/1-compiler)
+### [1. Run inline](https://github.com/UCIX210/holbertonschool-higher_level_programming/blob/main/0x00-python-hello_world/1-run_inline)
  * Write a Shell script that runs Python code.
  * The Python code will be saved in the environment variable `$PYCODE`
 ```
@@ -91,7 +91,7 @@ guillaume@ubuntu:~/py/0x00$
 
 
 
-### [2. Hello, print](https://github.com/UCIX210/holbertonschool-low_level_programming/blob/main/0x00-hello_world/2-assembler)
+### [2. Hello, print](https://github.com/UCIX210/holbertonschool-higher_level_programming/blob/main/0x00-python-hello_world/2-print.py)
  * Write a Python script that prints exactly `"Programming is like building a multilingual puzzle`, followed by a new line.
  * Use the function `print`
 ```
@@ -100,7 +100,7 @@ guillaume@ubuntu:~/py/0x00$ ./2-print.py
 guillaume@ubuntu:~/py/0x00$
 ```
 
-### [3. Print integer](https://github.com/UCIX210/holbertonschool-low_level_programming/blob/main/0x00-hello_world/3-name)
+### [3. Print integer](https://github.com/UCIX210/holbertonschool-higher_level_programming/blob/main/0x00-python-hello_world/2-print.py)
 Complete this [source code](https://github.com/holbertonschool/0x00.py/blob/master/3-print_number.py) in order to print the integer stored in the variable `number`, followed by `Battery street`, followed by a new line.
  * You can find the source code [here](https://github.com/holbertonschool/0x00.py/blob/master/3-print_number.py)
     * the number, followed by `Battery street`,
@@ -114,7 +114,7 @@ guillaume@ubuntu:~/py/0x00$ ./3-print_number.py
 guillaume@ubuntu:~/py/0x00$ 
 ```
 
-### [4. Print float](https://github.com/UCIX210/holbertonschool-low_level_programming/blob/main/0x00-hello_world/4-puts.c)
+### [4. Print float](https://github.com/UCIX210/holbertonschool-higher_level_programming/blob/main/0x00-python-hello_world/4-print_float.py)
 
 Complete the source code in order to print the float stored in the variable number with a precision of 2 digits.
  * You can find the source code [here](https://github.com/holbertonschool/0x00.py/blob/master/4-print_float.py)
@@ -129,7 +129,7 @@ Float: 3.14
 guillaume@ubuntu:~/py/0x00$ 
 ```
 
-### [5. Print string](https://github.com/UCIX210/holbertonschool-low_level_programming/blob/main/0x00-hello_world/5-printf.c)
+### [5. Print string](https://github.com/UCIX210/holbertonschool-higher_level_programming/blob/main/0x00-python-hello_world/5-print_string.py)
 Complete this [source code](https://github.com/holbertonschool/0x00.py/blob/master/5-print_string.py) in order to print 3 times a string stored in the variable `str`, followed by its first 9 characters.
  * You can find the source code [here](https://github.com/holbertonschool/0x00.py/blob/master/5-print_string.py)
  * The output of the program should be:
@@ -146,7 +146,7 @@ Holberton
 guillaume@ubuntu:~/py/0x00$ 
 ```
 
-### [6. Play with strings](https://github.com/UCIX210/holbertonschool-low_level_programming/blob/main/0x00-hello_world/6-size.c)
+### [6. Play with strings](https://github.com/UCIX210/holbertonschool-higher_level_programming/blob/main/0x00-python-hello_world/6-concat.py)
 Complete this [source code](https://github.com/holbertonschool/0x00.py/blob/master/6-concat.py) to print `Welcome to Holberton School!`
 
  * You can find the source code [here](https://github.com/holbertonschool/0x00.py/blob/master/6-concat.py)
@@ -161,7 +161,7 @@ guillaume@ubuntu:~/py/0x00$ wc -l 6-concat.py
 guillaume@ubuntu:~/py/0x00$ 
 ```
 
-### [7. Copy - Cut - Paste](https://github.com/UCIX210/holbertonschool-low_level_programming/blob/main/0x00-hello_world/100-intel)
+### [7. Copy - Cut - Paste](https://github.com/UCIX210/holbertonschool-higher_level_programming/blob/main/0x00-python-hello_world/7-edges.py)
 Complete this [source code](https://github.com/holbertonschool/0x00.py/blob/master/7-edges.py)
 
  * You can find the source code [here](https://github.com/holbertonschool/0x00.py/blob/master/7-edges.py)
@@ -180,7 +180,7 @@ guillaume@ubuntu:~/py/0x00$ wc -l 7-edges.py
 guillaume@ubuntu:~/py/0x00$ 
 ```
 
-### [8. Create a new sentence](https://github.com/UCIX210/holbertonschool-low_level_programming/blob/main/0x00-hello_world/101-quote.c)
+### [8. Create a new sentence](https://github.com/UCIX210/holbertonschool-higher_level_programming/blob/main/0x00-python-hello_world/8-concat_edges.py)
 Complete this [source code](https://github.com/holbertonschool/0x00.py/blob/master/8-concat_edges.py) to print `object-oriented programming with Python`, followed by a new line.
 
  * You can find the source code [here](https://github.com/holbertonschool/0x00.py/blob/master/8-concat_edges.py)
@@ -196,7 +196,7 @@ guillaume@ubuntu:~/py/0x00$ wc -l 8-concat_edges.py
 guillaume@ubuntu:~/py/0x00$ 
 ```
 
-### [9. Easter Egg](https://github.com/UCIX210/)
+### [9. Easter Egg](https://github.com/UCIX210/holbertonschool-higher_level_programming/blob/main/0x00-python-hello_world/9-easter_egg.py)
 Write a Python script that prints “The Zen of Python”, by TimPeters, followed by a new line.
 
  * Your script should be maximum 98 characters long (please check with `wc -m 9-easter_egg.py`)
@@ -230,7 +230,7 @@ guillaume@ubuntu:~/py/0x00$
 **Technical interview preparation:**
 
 
-### [11. Hello, write](https://github.com/UCIX210/)
+### [11. Hello, write](https://github.com/UCIX210/holbertonschool-higher_level_programming/blob/main/0x00-python-hello_world/100-write.py)
 Write a Python script that prints exactly `and that piece of art is useful - Dora Korpar, 2015-10-19`, followed by a new line.
  * Use the function `write` from the sys module
  * You are not allowed to use `print`
@@ -248,7 +248,7 @@ guillaume@ubuntu:~/py/0x00$
 ```
 
 
-### [12. Compile](https://github.com/UCIX210/)
+### [12. Compile](https://github.com/UCIX210/holbertonschool-higher_level_programming/blob/main/0x00-python-hello_world/101-compile)
 Write a script that compiles a Python script file.
 
 The Python file name will be stored in the environment variable `$PYFILE`
@@ -280,7 +280,7 @@ guillaume@ubuntu:~/py/0x00$
 ```
 
 
-### [13. ByteCode -> Python #1](https://github.com/UCIX210/)
+### [13. ByteCode -> Python #1](https://github.com/UCIX210/holbertonschool-higher_level_programming/blob/main/0x00-python-hello_world/102-magic_calculation.py)
 Write the Python function def magic_calculation(a, b): that does exactly the same as the following Python bytecode:
  * Tip: [Python bytecode](https://docs.python.org/3.4/library/dis.html)
 ```
