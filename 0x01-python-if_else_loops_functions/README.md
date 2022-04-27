@@ -66,7 +66,7 @@ Release date April 15, 2022
 
 
  ## Tasks
-### [0. Positive anything is better than negative nothing](https://github.com/UCIX210/holbertonschool-higher_level_programming/blob/main/0x00-python-hello_world/0-run)
+### [0. Positive anything is better than negative nothing](https://github.com/UCIX210/holbertonschool-higher_level_programming/blob/main/0x01-python-if_else_loops_functions/0-positive_or_negative.py)
 This program will assign a random signed `number` to the variable number each time it is executed. Complete the source code in order to print whether the number stored in the variable `number` is positive or negative.
  * You can find the source code [here](https://github.com/holbertonschool/0x01.py/blob/master/0-positive_or_negative_py)
  * The variable `number` will store a different value every time you will run this program
@@ -104,7 +104,7 @@ guillaume@ubuntu:~/0x01$
 
 
 
-### [1. The last digit](https://github.com/UCIX210/holbertonschool-higher_level_programming/blob/main/0x00-python-hello_world/1-run_inline)
+### [1. The last digit](https://github.com/UCIX210/holbertonschool-higher_level_programming/blob/main/0x01-python-if_else_loops_functions/1-last_digit.py)
 This program will assign a random signed `number` to the variable number each time it is executed. Complete the source code in order to print the last digit of the number stored in the variable `number`.
 
  * You can find the source code here
@@ -147,7 +147,7 @@ guillaume@ubuntu:~/0x01$
 
 
 
-### [2. I sometimes suffer from insomnia. And when I can't fall asleep, I play what I call the alphabet game](https://github.com/UCIX210/holbertonschool-higher_level_programming/blob/main/0x00-python-hello_world/2-print.py)
+### [2. I sometimes suffer from insomnia. And when I can't fall asleep, I play what I call the alphabet game](https://github.com/UCIX210/holbertonschool-higher_level_programming/blob/main/0x01-python-if_else_loops_functions/2-print_alphabet.py)
 Write a program that `prints` the ASCII alphabet, in lowercase, not followed by a new line.
  * You can only use one print function
  * You can only use one loop in your code
@@ -158,7 +158,7 @@ guillaume@ubuntu:~/0x01$ ./2-print_alphabet.py
 abcdefghijklmnopqrstuvwxyzguillaume@ubuntu:~/0x01$
 ```
 
-### [3. When I was having that alphabet soup, I never thought that it would pay off](https://github.com/UCIX210/holbertonschool-higher_level_programming/blob/main/0x00-python-hello_world/2-print.py)
+### [3. When I was having that alphabet soup, I never thought that it would pay off](https://github.com/UCIX210/holbertonschool-higher_level_programming/blob/main/0x01-python-if_else_loops_functions/3-print_alphabt.py)
 Write a program that prints the ASCII alphabet, in lowercase, not followed by a new line.
 
  * Print all the letters except `q` and `e`
@@ -171,7 +171,7 @@ guillaume@ubuntu:~/0x01$ ./3-print_alphabt.py
 abcdfghijklmnoprstuvwxyzguillaume@ubuntu:~/0x01$
 ```
 
-### [4. Hexadecimal printing](https://github.com/UCIX210/holbertonschool-higher_level_programming/blob/main/0x00-python-hello_world/4-print_float.py)
+### [4. Hexadecimal printing](https://github.com/UCIX210/holbertonschool-higher_level_programming/blob/main/0x01-python-if_else_loops_functions/4-print_hexa.py)
 
 Write a program that prints all numbers from `0` to `98` in decimal and in hexadecimal (as in the following example)
 
@@ -207,7 +207,7 @@ guillaume@ubuntu:~/0x01$ ./4-print_hexa.py
 guillaume@ubuntu:~/0x01$
 ```
 
-### [5. Print string](https://github.com/UCIX210/holbertonschool-higher_level_programming/blob/main/0x00-python-hello_world/5-print_string.py)
+### [5. Print string](https://github.com/UCIX210/holbertonschool-higher_level_programming/blob/main/0x01-python-if_else_loops_functions/5-print_comb2.py)
 Write a program that prints numbers from `0` to `99`.
 
 * Numbers must be separated by `,`, followed by a space
@@ -223,7 +223,7 @@ guillaume@ubuntu:~/0x01$ ./5-print_comb2.py
 guillaume@ubuntu:~/0x01$ 
 ```
 
-### [6. Inventing is a combination of brains and materials. The more brains you use, the less material you need](https://github.com/UCIX210/holbertonschool-higher_level_programming/blob/main/0x00-python-hello_world/6-concat.py)
+### [6. Inventing is a combination of brains and materials. The more brains you use, the less material you need](https://github.com/UCIX210/holbertonschool-higher_level_programming/blob/main/0x01-python-if_else_loops_functions/6-print_comb3.py)
 Write a program that prints all possible different combinations of two digits.
 
 * Numbers must be separated by `,`, followed by a space
@@ -242,7 +242,7 @@ guillaume@ubuntu:~/0x01$ ./6-print_comb3.py
 guillaume@ubuntu:~/0x01$ 
 ```
 
-### [7. islower](https://github.com/UCIX210/holbertonschool-higher_level_programming/blob/main/0x00-python-hello_world/7-edges.py)
+### [7. islower](https://github.com/UCIX210/holbertonschool-higher_level_programming/blob/main/0x01-python-if_else_loops_functions/7-islower.py)
 Write a function that checks for lowercase character.
 
 * Prototype: `def islower(c):`
@@ -272,7 +272,7 @@ g is lower
 guillaume@ubuntu:~/0x01$ 
 ```
 
-### [8. To uppercase](https://github.com/UCIX210/holbertonschool-higher_level_programming/blob/main/0x00-python-hello_world/8-concat_edges.py)
+### [8. To uppercase](https://github.com/UCIX210/holbertonschool-higher_level_programming/blob/main/0x01-python-if_else_loops_functions/8-uppercase.py)
 Write a function that checks for lowercase character.
 
 * Prototype: `def uppercase(str):`
@@ -296,7 +296,7 @@ BEST SCHOOL 98 BATTERY STREET
 guillaume@ubuntu:~/0x01$ 
 ```
 
-### [9. There are only 3 colors, 10 digits, and 7 notes; it's what we do with them that's important](https://github.com/UCIX210/holbertonschool-higher_level_programming/blob/main/0x00-python-hello_world/9-easter_egg.py)
+### [9. There are only 3 colors, 10 digits, and 7 notes; it's what we do with them that's important](https://github.com/UCIX210/holbertonschool-higher_level_programming/blob/main/0x01-python-if_else_loops_functions/9-print_last_digit.py)
 Write a function that prints the last digit of a number.
 
 * Prototype: `def print_last_digit(number):`
@@ -318,7 +318,7 @@ guillaume@ubuntu:~/0x01$ ./9-main.py
 guillaume@ubuntu:~/0x01$ 
 ```
 
-### [10. a + b](https://github.com/UCIX210/)
+### [10. a + b](https://github.com/UCIX210/holbertonschool-higher_level_programming/blob/main/0x01-python-if_else_loops_functions/10-add.py)
 Write a function that adds two integers and returns the result.
 
 * Prototype: `def add(a, b):`
@@ -342,7 +342,7 @@ guillaume@ubuntu:~/0x01$
 ```
 
 
-### [11. a ^ b](https://github.com/UCIX210/holbertonschool-higher_level_programming/blob/main/0x00-python-hello_world/100-write.py)
+### [11. a ^ b](https://github.com/UCIX210/holbertonschool-higher_level_programming/blob/main/0x01-python-if_else_loops_functions/11-pow.py)
 Write a function that computes `a` to the power of `b` and return the value.
 * Prototype: `def pow(a, b):`
 * Returns the value of `a ^ b`
@@ -369,7 +369,7 @@ guillaume@ubuntu:~/0x01$
 ```
 
 
-### [12. Fizz Buzz](https://github.com/UCIX210/holbertonschool-higher_level_programming/blob/main/0x00-python-hello_world/101-compile)
+### [12. Fizz Buzz](https://github.com/UCIX210/holbertonschool-higher_level_programming/blob/main/0x01-python-if_else_loops_functions/12-fizzbuzz.py)
 Write a function that prints the numbers from 1 to 100 separated by a space.
 
  * For multiples of three print `Fizz` instead of the number and for multiples of five print `Buzz`.
@@ -392,13 +392,13 @@ guillaume@ubuntu:~/0x01$
 ```
 
 
-### [13. Insert in sorted linked list](https://github.com/UCIX210/holbertonschool-higher_level_programming/blob/main/0x00-python-hello_world/102-magic_calculation.py)
+### [13. Insert in sorted linked list](https://github.com/UCIX210)
 **Technical interview preparation:**
 ```
 
 ```
 
-### [14. Smile in the mirror](https://github.com/UCIX210/holbertonschool-higher_level_programming/blob/main/0x00-python-hello_world/102-magic_calculation.py)
+### [14. Smile in the mirror](https://github.com/UCIX210/holbertonschool-higher_level_programming/blob/main/0x01-python-if_else_loops_functions/100-print_tebahpla.py)
 Write a program that prints the ASCII alphabet, in reverse order, alternating lowercase and uppercase (z in lowercase and Y in uppercase) , not followed by a new line.
 
  * You can only use one `print` function
@@ -410,7 +410,7 @@ guillaume@ubuntu:~/0x01$ ./100-print_tebahpla.py
 zYxWvUtSrQpOnMlKjIhGfEdCbAguillaume@ubuntu:~/0x01$
 ```
 
-### [15. Remove at position](https://github.com/UCIX210/holbertonschool-higher_level_programming/blob/main/0x00-python-hello_world/102-magic_calculation.py)
+### [15. Remove at position](https://github.com/UCIX210/holbertonschool-higher_level_programming/blob/main/0x01-python-if_else_loops_functions/101-remove_char_at.py)
 Write a function that creates a copy of the string, removing the character at the position n (not the Python way, the “C array index”).
  * Prototype: def remove_char_at(str, n):
  * You are not allowed to import any module
@@ -435,7 +435,7 @@ Python
 guillaume@ubuntu:~/0x01$ 
 ```
 
-### [16. ByteCode -> Python #2](https://github.com/UCIX210/holbertonschool-higher_level_programming/blob/main/0x00-python-hello_world/102-magic_calculation.py)
+### [16. ByteCode -> Python #2](https://github.com/UCIX210)
 Write the Python function `def magic_calculation(a, b, c):` that does exactly the same as the following Python bytecode:
  * [tips - ByteCode](https://docs.python.org/3.4/library/dis.html)
 ```
