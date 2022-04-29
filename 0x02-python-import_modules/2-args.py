@@ -4,11 +4,12 @@ if __name__ == "__main__":
     num_arguments = len(sys.argv) - 1
 
     if num_arguments == 0:
-        print(f"{num_arguments} arguments.")
+        print("0 arguments.")
     elif num_arguments == 1:
-        print(f"{num_arguments} argument:")
+        print("1 argument:")
     else:
         print(f"{num_arguments} arguments:")
+
 
     if num_arguments >= 1:
         num_arguments = 0
