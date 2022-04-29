@@ -9,9 +9,5 @@ if __name__ == "__main__":
         print("1 argument:")
     else:
         print(f"{num_arguments} arguments:")
-
-    num_arguments = 0
-    for arg in sys.argv:
-        if num_arguments != 0:
-            print(f"{num_arguments}: {arg}")
-        num_arguments += 1
+    for i in range(num_arguments):
+        print(f"{i + 1}: {sys.argv[i + 1]}")
