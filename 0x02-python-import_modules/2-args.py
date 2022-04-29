@@ -10,7 +10,6 @@ if __name__ == "__main__":
     else:
         print(f"{num_arguments} arguments:")
 
-
     num_arguments = 0
     for arg in sys.argv:
         if num_arguments != 0:
