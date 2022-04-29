@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 if __name__ == "__main__":
     import sys
-    num_arguments = len(sys.argv) -1
+    num_arguments = len(sys.argv) - 1
 
     char_s = ""
     if num_arguments > 1:
