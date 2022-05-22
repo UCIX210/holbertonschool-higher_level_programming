@@ -2,5 +2,5 @@
 def print_matrix_integer(matrix=[[]]):
     for i in matrix:
         for o in i:
-            print(f"{int(o)}", end=" ")
+            print(f"{o}", end=" ")
         print()
