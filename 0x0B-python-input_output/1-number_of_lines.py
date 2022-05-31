@@ -1,4 +1,4 @@
-#!bin/usr/bin/python3
+#!/usr/bin/python3
 """
 Una función que escriba un estring en un archivo utf-8
 y retorne el número de caracteres escritos
