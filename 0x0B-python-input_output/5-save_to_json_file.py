@@ -12,6 +12,6 @@ def save_to_json_file(my_obj, filename):
     """
     Escribir un objeto en un archivo de texto, usando un formato JSON
     """
-    with open(filename, 'w') as f:
+    with open(filename, 'a') as f:
         f.write(json.dumps(my_obj))
     return 0
