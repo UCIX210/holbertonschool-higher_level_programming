@@ -12,4 +12,6 @@ def load_from_json_file(filename):
     Crea un objeto a partir de un archivo de texto, usando un formato JSON
     """
     with open(filename, 'r') as f:
-        return json.loads(f.read())
+        objet_py = json.loads(f.read())
+    return objet_py
+
