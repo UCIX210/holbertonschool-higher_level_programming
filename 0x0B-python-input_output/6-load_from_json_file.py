@@ -14,4 +14,3 @@ def load_from_json_file(filename):
     with open(filename, 'r') as f:
         objet_py = json.loads(f.read())
     return objet_py
-
