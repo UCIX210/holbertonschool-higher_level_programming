@@ -3,6 +3,7 @@
 Lee un archivo y lo imprime en la salida estándar
 """
 
+
 def read_file(filename=""):
     """
     Lee un archivo y lo imprime en la salida estándar
