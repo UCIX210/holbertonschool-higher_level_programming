@@ -4,10 +4,6 @@ Una clase llamada Rectangle
 """
 
 
-from ast import If
-from re import S
-
-
 class Rectangle:
     """
     classe Rectangle
