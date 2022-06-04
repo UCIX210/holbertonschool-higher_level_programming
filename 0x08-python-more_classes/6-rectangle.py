@@ -4,9 +4,6 @@ Una clase llamada Rectangle
 """
 
 
-from numpy import number
-
-
 class Rectangle:
     """
     classe Rectangle
