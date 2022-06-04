@@ -62,6 +62,5 @@ class Rectangle:
         else:
             string = ""
             for i in range(self.height):
-                string = string + ("#" * self.width)
-                string = string + "\n"
-            return string
+                string = string + ("#" * self.width) + "\n"
+            return string[:-1]
